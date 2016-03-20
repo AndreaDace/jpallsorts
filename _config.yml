@@ -1,2 +1,3 @@
-baseurl:/jpallsorts
-exclude:['README.md']
+
+baseurl: /jpallsorts
+exclude: ['README.md']
