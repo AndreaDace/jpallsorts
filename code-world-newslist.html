@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Code World News</h1>
+
+<ul>
+	{% for posts in site.categories.code-world %}
+	<li>
+		<a href="">{{posts.title}}</a>
+		<p>{{posts.meta}}</p>
+	</li>
+	{% endfor %}
+</ul>

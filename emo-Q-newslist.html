@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Emotional Intelligence News</h1>
+
+<ul>
+	{% for posts in site.categories.emo-Q %}
+	<li>
+		<a href="">{{posts.title}}</a>
+		<p>{{posts.meta}}</p>
+	</li>
+	{% endfor %}
+</ul>

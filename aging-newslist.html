@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Aging: Active, Stages, Planning News</h1>
+
+<ul>
+	{% for posts in site.categories.aging %}
+	<li>
+		<a href="">{{posts.title}}</a>
+		<p>{{posts.meta}}</p>
+	</li>
+	{% endfor %}
+</ul>

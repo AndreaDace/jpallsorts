@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Women: Leading, Competing, Mentoring News</h1>
+
+<ul>
+	{% for posts in site.categories.women %}
+	<li>
+		<a href="">{{posts.title}}</a>
+		<p>{{posts.meta}}</p>
+	</li>
+	{% endfor %}
+</ul>
