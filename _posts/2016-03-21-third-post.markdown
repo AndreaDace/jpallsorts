@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 2 Retirement for the never employed
+title: Professional Contract Worker
 meta: Retirement planning for independent contractors.
 source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html
 category: retirement

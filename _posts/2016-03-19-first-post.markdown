@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 3 Retirement for the never employed
+title: Portable Retirement Planning
 meta: Retirement planning for independent contractors.
 source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html
 category: retirement
