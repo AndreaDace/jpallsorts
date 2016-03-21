@@ -6,24 +6,19 @@
   <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 </head>
 <body class="{{page.bodyClass}}>
+	
 	<header>
 		<h1></h1>
-		<nav>
-			<ul>
-				<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-				<li><a href="{{site.baseurl}}/mission" {% if page.url == '/mission/' %} class="current" {% endif %}>Our Mission</a></li>
-				<li><a href="{{site.baseurl}}/about" {% if page.url == '/about/' %} class="current" {% endif %}>About Us</a></li>
-				<li><a href="{{site.baseurl}}/pitchin" {% if page.url == '/pitchin/' %} class="current" {% endif %}>Pitch In, Bitches!</a></li>
-			</ul>
-		</nav>
-
+		
 	</header>
 
 	<main>
+		{% include nav.html navclass='nav-top' %}
 		{{content}}
 	</main>
 
 	<footer>
+		{% include nav.html navclass='nav-bottom' %}
 		<p>&copy; All Sorts Media, 2016. All Sorts Media is a brand copyrighted by the Older Women Coders Organization. Any similarity to existing web sites is purely coincidence.</p>
 	</footer>
 
