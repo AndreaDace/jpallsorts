@@ -1,0 +1,9 @@
+---
+layout: article
+title: Retirement for the never employed
+meta: retirement planning for independent contractors
+source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html
+category: retirement
+---
+
+Excellent retirement planning advice for coding professionals who've worked mostly under contract for the majority of their careers.
