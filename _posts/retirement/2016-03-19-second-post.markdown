@@ -1,8 +1,8 @@
 ---
-layout: article
+layout: newslist-article
 title: Retirement for the never employed
 meta: Retirement planning for independent contractors.
-source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html
+source: https://www.google.com
 category: retirement
 ---
 

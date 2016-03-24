@@ -1,8 +1,8 @@
 ---
-layout: article
+layout: newslist-article
 title: Socializing After Work
 meta: Who invited Mom?
-source: http://AndreaDace/github.io/jpallsorts/_posts/work-life.markdown
+source: https://www.google.com
 category: work-life-balance
 ---
 

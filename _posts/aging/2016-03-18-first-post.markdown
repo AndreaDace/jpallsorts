@@ -1,9 +1,9 @@
 ---
-layout: article
-title: Portable Retirement Planning
-meta: Retirement planning for independent contractors.
-source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html
-category: retirement
+layout: newslist-article
+title: Socializing After Work
+meta: Who invited Mom?
+source: https://www.google.com
+category: work-life-balance
 ---
 
-Excellent retirement planning advice for coding professionals who've worked mostly under contract for the majority of their careers.
+Honest talk about your definition of Work/Life Balance.

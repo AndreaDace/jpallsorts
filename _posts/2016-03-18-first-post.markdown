@@ -1,9 +1,0 @@
----
-layout: article
-title: Portable Retirement Planning
-meta: Retirement planning for independent contractors.
-source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html
-category: retirement
----
-
-Excellent retirement planning advice for coding professionals who've worked mostly under contract for the majority of their careers.
