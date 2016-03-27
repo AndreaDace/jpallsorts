@@ -1,0 +1,10 @@
+	<ul>
+	{% for resources in site.pages %}
+		{% if resources.type == include.type %}
+	<li>
+		<img src="{{site.baseurl}}/images/resources/{{resources.image}}" alt="Photo of {{resources.title}}">
+		<p>Event: {{resources.title}}</p><p>Description: {{resources.meta}}</p><p>Organization: {{resources.organization}}</p><p>Apply by:  {{resources.applyby}}</p>
+	</li>
+		{% endif %}
+	{% endfor %}
+	</ul>
